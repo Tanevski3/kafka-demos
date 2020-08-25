@@ -1,5 +1,5 @@
-# Kafka integrations
-> **Kafka integrations** demos
+# Kafka demos
+> **Kafka demos** demonstrate usage of kafka with various technologies
 
 ## Getting started 
 To get a local copy up and running follow these simple example steps.
@@ -15,14 +15,14 @@ This section will describe requirements needed to satisfy the installation or ru
  - Intellij
 
 ### Build
- - `git clone https://github.com/Tanevski3/kafka-integrations.git`
+ - `git clone https://github.com/Tanevski3/kafka-demos.git`
  - `cd ./kafka-integrations`
  - `mvn clean install`
  
 ### Run
  - Run `docker-compose up -d` inside `kafka-integrations` directory
- - Inside `kafka-java-integrations` right click and run `MessageConsumer.java`, then right click and run `MessageProducer.java`
- - Inside `kafka-spring-integrations` right click and run `KafkaClient.java`
+ - Inside `kafka-java-demos` right click and run `MessageConsumer.java`, then right click and run `MessageProducer.java`
+ - Inside `kafka-spring-demos` right click and run `KafkaClient.java`
 
 ## Future changes
  - Integration tests
