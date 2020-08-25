@@ -6,13 +6,13 @@
     
     <parent>
         <groupId>com.mtanevski.kafka</groupId>
-        <artifactId>kafka-integrations</artifactId>
+        <artifactId>kafka-demos</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>kafka-java-integration</artifactId>
+    <artifactId>kafka-java-demo</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>Java + Kafka integration</name>
+    <name>Java + Kafka demo</name>
 
     <dependencies>
         <dependency>

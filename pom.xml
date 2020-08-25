@@ -5,14 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mtanevski.kafka</groupId>
-    <artifactId>kafka-integrations</artifactId>
+    <artifactId>kafka-demos</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Kafka Clients</name>
 
     <modules>
-        <module>kafka-java-integration</module>
-        <module>kafka-spring-integration</module>
+        <module>kafka-java-demo</module>
+        <module>kafka-spring-demo</module>
     </modules>
 
     <properties>
